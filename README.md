@@ -1,4 +1,4 @@
-🎨 Padrões de Projeto em Python
+### Design Patterns em Python
 Um repositório dedicado à implementação e ao estudo dos padrões de projeto clássicos (GoF - Gang of Four) utilizando a linguagem Python. O objetivo é fornecer exemplos claros, práticos e "pythônicos" de cada padrão.
 
 📖 Sobre o Projeto
